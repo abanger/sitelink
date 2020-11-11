@@ -12,7 +12,6 @@ import os
 import time
 import copy
 from pagenode import PageNode
-#from utils import hidden_node_dict,hidden_node
 from utils import get_domain
 import numpy as np 
 from selenium.common.exceptions import UnexpectedAlertPresentException
@@ -23,7 +22,6 @@ from selenium.common.exceptions import UnexpectedAlertPresentException
 URL = "http://www.edu.cn"
 #循环次数，小为检查部分
 NUM = 5
-#checkFileType=['.htm','.html','.jsp','.js','.css','','']
 #排除检查文件，以扩展名
 noCheckFileType=['.pdf','.xlsx','.docx','.xls','.doc','.jpg','.wps','.zip','.ppt','.pptx','.rar','.swf','.png','.js','.css','.ico','.gif']
 ##不检查的内部网站，排除一些动态网，如图书资料、教学平台等
