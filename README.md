@@ -11,6 +11,7 @@ Sitelink 是内部网站链接的检查工具。输出检查的所有链接、�
 - selenium
 - urllib
 - numpy
+- requests
 
 - [chromedriver](http://npm.taobao.org/mirrors/chromedriver/ )
 	chromedriver的版本一定要与Chrome的版本一致。
