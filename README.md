@@ -49,7 +49,7 @@ python main.py
 
 ## 版权和许可证
 
-由[Apache-2.0 license](LICENSE)提供
+由[GPL-3.0 License](LICENSE)提供
 
 
 ## 捐赠
